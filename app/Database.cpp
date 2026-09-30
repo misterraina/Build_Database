@@ -1,4 +1,4 @@
-#include "../../include/database/Database.h"
+#include "Database.h"
 
 namespace
 {
